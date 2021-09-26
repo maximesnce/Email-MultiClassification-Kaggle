@@ -14,4 +14,4 @@ This file briefly presents the different models we try to apply to our classific
 This last files takes elements from the two previous ones and unfold the global path we followed to solve this Machine Learning challenge.
 
 
-Finally, a summary of our work is available in our final report.
+Finally, a summary of our work is available in our **final report**.
